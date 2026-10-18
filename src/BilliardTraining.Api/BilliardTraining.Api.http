@@ -1,0 +1,5 @@
+@baseUrl = http://localhost:5080
+
+### Application information
+GET {{baseUrl}}/
+Accept: application/json
